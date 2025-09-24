@@ -1,1 +1,2 @@
 # Library-Allocation-Website
+This project is a full-stack application designed to automate and optimize the distribution of books across multiple library branches. It employs brute-force and balanced allocation methods to determine the most efficient sorting strategy, providing clear allocation results and branch storage details through a user-friendly interface. Built with Python, React, JavaScript, HTML, and CSS, the application ensures efficient library management and streamlined operations.
